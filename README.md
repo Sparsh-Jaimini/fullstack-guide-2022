@@ -144,7 +144,7 @@ This is incredibly important if you want to stand out, here is some extra stuff 
 - [JWT & bcrypt](https://www.youtube.com/watch?v=mbsmsi7l3r4) - Straightforward packages that help secure your backends: 
 - [Socket.io](https://www.youtube.com/watch?v=9HFwJ9hrmls&t=429s) - Websocketting is a powerful alternative to traditional REST API's. This establishes a two way connection between your server and frontend where the server can send information to the client at any time! It allows you to build things like multiplayer games, chat apps, streaming services, and more!
 - [Next.js](https://nextjs.org/) - A powerful React/Node framework that takes React away from being a SPA without feeling like an old fashioned website. It allows your website to be served by the server (SSR) or statically generated (SSG). It makes building apps incredibly intuitive with its structure and features. Improved performance and overall security!
-- [Docker](https://utkuufuk.com/2019/05/12/fullstack-roadmap/)
+- [Docker](https://utkuufuk.com/2019/05/12/fullstack-roadmap/) - Jump to the last chapter of this article.
 
 
 ## Build your Portfolio & Resume
