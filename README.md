@@ -53,7 +53,7 @@ Not all of the book will make sense to you now, but I promise you will use its i
 
 Congrats, you now understand HTML, CSS, and Vanilla JS
 
-## Git and GitHub
+## Git and GitHub Along With Atom TUtorial
 
 Git is a version control system that allows you to manage your projects and code via versions. Furthermore, it will allow you to post things to GitHub and host them online. GitHub, which I'm sure you've interacted with at this point, is an online platform where you can share and post your code on the internet. It is crucial for hosting websites and servers. Git Bash is a CLI for Git that will allow you to execute Git commands in the terminal.
 
