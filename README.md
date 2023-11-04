@@ -144,25 +144,8 @@ This is incredibly important if you want to stand out, here is some extra stuff 
 - [JWT & bcrypt](https://www.youtube.com/watch?v=mbsmsi7l3r4) - Straightforward packages that help secure your backends: 
 - [Socket.io](https://www.youtube.com/watch?v=9HFwJ9hrmls&t=429s) - Websocketting is a powerful alternative to traditional REST API's. This establishes a two way connection between your server and frontend where the server can send information to the client at any time! It allows you to build things like multiplayer games, chat apps, streaming services, and more!
 - [Next.js](https://nextjs.org/) - A powerful React/Node framework that takes React away from being a SPA without feeling like an old fashioned website. It allows your website to be served by the server (SSR) or statically generated (SSG). It makes building apps incredibly intuitive with its structure and features. Improved performance and overall security!
-- [Docker]
-- Fundamentals
-Docker Overview: Just so you know what you’re getting yourself into.
-Get Started Part 1 and Part 2: Learn how to set up your Docker environment, build an image and run it as a container.
-Dockerfile Tutorial by Example: Learn why and how to create a Dockerfile.
-Getting Started with Docker Compose: Because single-container apps are for losers.
-Docker Compose Tutorial: Keep calm and Docker Compose.
-- Optionals
-Data Management in Docker: Learn how to persist data in host machine even after the container stops.
-Environment Variables in Docker Compose: Learn how to deal with environment variables in Docker Compose.
-Networking in Docker Compose: Learn how to specify custom networks for your services.
-- References
-Dockerfile Reference: In case you forget how to create a Dockerfile.
-Dockerfile Best Practices: In case you forget how you should create a Dockerfile.
-Docker Compose File Reference (v3): In case you forget how to create a Docker Compose file.
-Docker Compose Command Line Reference: Usage information for the docker-compose subcommands.
-That’s it. I hope you enjoyed following this roadmap. Don’t forget to subscribe if you want to get updates on my future articles.
+- [Docker](https://utkuufuk.com/2019/05/12/fullstack-roadmap/)
 
-Whatever you decide to learn (I recommend all) you MUST either build a project with all these technologies or implement them in your old projects. 
 
 ## Build your Portfolio & Resume
 
